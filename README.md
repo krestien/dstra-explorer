@@ -1,4 +1,4 @@
-![Bulwark Logo](https://bulwarkcrypto.com/wp-content/uploads/2018/04/blockexplorer.svg)
+![Bulwark Logo](https://dstra.io/wp-content/uploads/2018/03/dstra-main-logo-blackfont.png)
 
 Bulwark Explorer
 &middot;
